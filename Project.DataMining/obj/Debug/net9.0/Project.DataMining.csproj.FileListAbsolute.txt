@@ -1,0 +1,12 @@
+D:\Univer\Nam_3\HKII\KPDL\Project\Project.DataMining\bin\Debug\net9.0\Project.DataMining.deps.json
+D:\Univer\Nam_3\HKII\KPDL\Project\Project.DataMining\bin\Debug\net9.0\Project.DataMining.dll
+D:\Univer\Nam_3\HKII\KPDL\Project\Project.DataMining\bin\Debug\net9.0\Project.DataMining.pdb
+D:\Univer\Nam_3\HKII\KPDL\Project\Project.DataMining\obj\Debug\net9.0\Project.DataMining.csproj.AssemblyReference.cache
+D:\Univer\Nam_3\HKII\KPDL\Project\Project.DataMining\obj\Debug\net9.0\Project.DataMining.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\Nam_3\HKII\KPDL\Project\Project.DataMining\obj\Debug\net9.0\Project.DataMining.AssemblyInfoInputs.cache
+D:\Univer\Nam_3\HKII\KPDL\Project\Project.DataMining\obj\Debug\net9.0\Project.DataMining.AssemblyInfo.cs
+D:\Univer\Nam_3\HKII\KPDL\Project\Project.DataMining\obj\Debug\net9.0\Project.DataMining.csproj.CoreCompileInputs.cache
+D:\Univer\Nam_3\HKII\KPDL\Project\Project.DataMining\obj\Debug\net9.0\Project.DataMining.dll
+D:\Univer\Nam_3\HKII\KPDL\Project\Project.DataMining\obj\Debug\net9.0\refint\Project.DataMining.dll
+D:\Univer\Nam_3\HKII\KPDL\Project\Project.DataMining\obj\Debug\net9.0\Project.DataMining.pdb
+D:\Univer\Nam_3\HKII\KPDL\Project\Project.DataMining\obj\Debug\net9.0\ref\Project.DataMining.dll

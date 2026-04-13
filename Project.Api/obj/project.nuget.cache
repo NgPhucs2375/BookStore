@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7vrLLMD5kqo=",
+  "success": true,
+  "projectFilePath": "D:\\Univer\\Nam_3\\HKII\\KPDL\\Project\\Project.Api\\Project.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\csvhelper\\33.1.0\\csvhelper.33.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
